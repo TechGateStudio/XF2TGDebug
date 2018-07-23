@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language title="Russian (RU)" date_format="j M Y" time_format="H:i" currency_format="&quot;{value}&quot; {symbol}" week_start="1" decimal_point="." thousands_separator="," label_separator=":" comma_separator=", " ellipsis="..." parenthesis_open="(" parenthesis_close=")" language_code="ru-RU" text_direction="LTR" addon_id="TG/Debug" export_version="2">
+  <phrase title="option.tgdebugDebugMode" addon_id="TG/Debug" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Режим отладки]]></phrase>
+  <phrase title="option.tgdebugDevelopmentDefaultAddOn" addon_id="TG/Debug" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Дополнение по умолчанию]]></phrase>
+  <phrase title="option.tgdebugDevelopmentMode" addon_id="TG/Debug" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Режим разработки]]></phrase>
+  <phrase title="option_explain.tgdebugDebugMode" addon_id="TG/Debug" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Режим отладки позволит вам получить доступ к некоторым инструментам разработки в ACP (например, создавать маршруты, разрешения, административную навигацию и т.д.), а также другие не менее полезные возможности для выполнения отладки.]]></phrase>
+  <phrase title="option_explain.tgdebugDevelopmentDefaultAddOn" addon_id="TG/Debug" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Не обязательно к заполнению, но добавление позволяет автоматически устанавливать это дополнение в поле дополнения при создание контента некоторого контента в ACP.]]></phrase>
+  <phrase title="option_explain.tgdebugDevelopmentMode" addon_id="TG/Debug" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Режим разработки - это особый режим, который заставит XF автоматически записывать ваши файлы разработки в ваш каталог <b>_output</b>. Включение данного режима, также автоматически включает режим отладки.]]></phrase>
+  <phrase title="option_group_description.tgDebug" addon_id="TG/Debug" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Настройка режима отладки/разработчика.]]></phrase>
+  <phrase title="permission.tgdebug_viewDebug" addon_id="TG/Debug" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Просмотр отладочной информации]]></phrase>
+</language>
