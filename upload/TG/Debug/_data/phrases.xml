@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phrases>
+  <phrase title="option.tgdebugDebugMode" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Debug Mode]]></phrase>
+  <phrase title="option.tgdebugDevelopmentDefaultAddOn" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Development Default Add-on]]></phrase>
+  <phrase title="option.tgdebugDevelopmentMode" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Development Mode]]></phrase>
+  <phrase title="option_explain.tgdebugDebugMode" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Debug mode will allow you to access certain development tools in the ACP (such as creating routes, permissions, admin navigation etd.), as well as other equally useful opportunities for debugging.]]></phrase>
+  <phrase title="option_explain.tgdebugDevelopmentDefaultAddOn" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Not necessarily to be filled, but adding allows you to automatically install this add-on in the add-on field when creating content of some content in the ACP.]]></phrase>
+  <phrase title="option_explain.tgdebugDevelopmentMode" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Development mode is a special mode, which will trigger XF to automatically write out your development files to your  <b>_output</b> directory. Enabling this mode also automatically enables debugging mode.]]></phrase>
+  <phrase title="option_group.tgDebug" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[TechGate | Debug]]></phrase>
+  <phrase title="option_group_description.tgDebug" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Setting the debugging/developer mode.]]></phrase>
+  <phrase title="permission.tgdebug_viewDebug" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[View debug information]]></phrase>
+  <phrase title="permission_interface.tgdebug" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[TechGate | Debug]]></phrase>
+</phrases>

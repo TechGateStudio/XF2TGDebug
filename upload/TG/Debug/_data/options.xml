@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<options>
+  <option option_id="tgdebugDebugMode" edit_format="onoff" data_type="boolean">
+    <default_value></default_value>
+    <relation group_id="tgDebug" display_order="1"/>
+  </option>
+  <option option_id="tgdebugDevelopmentDefaultAddOn" edit_format="textbox" data_type="string">
+    <default_value>XF</default_value>
+    <relation group_id="tgDebug" display_order="10"/>
+  </option>
+  <option option_id="tgdebugDevelopmentMode" edit_format="onoff" data_type="boolean">
+    <default_value></default_value>
+    <relation group_id="tgDebug" display_order="5"/>
+  </option>
+</options>

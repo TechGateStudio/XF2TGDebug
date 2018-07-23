@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<code_event_listeners>
+  <listener event_id="app_complete" execute_order="10" callback_class="TG\Debug\Listener" callback_method="appComplete" active="1"/>
+  <listener event_id="app_setup" execute_order="10" callback_class="TG\Debug\Listener" callback_method="appSetup" active="1"/>
+</code_event_listeners>
