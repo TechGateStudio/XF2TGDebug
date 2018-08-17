@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <phrases>
+  <phrase title="admin_navigation.TGDebugOptionDebugMode" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Options debug mode]]></phrase>
   <phrase title="option.tgdebugDebugMode" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Debug Mode]]></phrase>
   <phrase title="option.tgdebugDevelopmentDefaultAddOn" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Development Default Add-on]]></phrase>
   <phrase title="option.tgdebugDevelopmentMode" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Development Mode]]></phrase>
@@ -10,4 +11,5 @@
   <phrase title="option_group_description.tgDebug" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Setting the debugging/developer mode.]]></phrase>
   <phrase title="permission.tgdebug_viewDebug" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[View debug information]]></phrase>
   <phrase title="permission_interface.tgdebug" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[TechGate | Debug]]></phrase>
+  <phrase title="tgdebug_deleted" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[[Deleted] {id}]]></phrase>
 </phrases>

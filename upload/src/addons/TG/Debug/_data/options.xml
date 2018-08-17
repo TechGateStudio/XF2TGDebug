@@ -4,8 +4,9 @@
     <default_value></default_value>
     <relation group_id="tgDebug" display_order="1"/>
   </option>
-  <option option_id="tgdebugDevelopmentDefaultAddOn" edit_format="textbox" data_type="string">
+  <option option_id="tgdebugDevelopmentDefaultAddOn" edit_format="callback" data_type="string">
     <default_value>XF</default_value>
+    <edit_format_params>\TG\Debug\Option\DevelopmentDefaultAddOn::renderOption</edit_format_params>
     <relation group_id="tgDebug" display_order="10"/>
   </option>
   <option option_id="tgdebugDevelopmentMode" edit_format="onoff" data_type="boolean">

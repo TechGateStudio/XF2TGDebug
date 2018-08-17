@@ -1,0 +1,20 @@
+{
+    "admin_navigation.TGDebugOptionDebugMode.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "21a2f14dffe63a8851f1dd6566f5320c"
+    },
+    "option.tgdebugDevelopmentDefaultAddOn.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "05c8d4c1fb2efdbfdd2a6674be123953"
+    },
+    "tgdebug_deleted.txt": {
+        "global_cache": false,
+        "version_id": 1000011,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "143823d18eff0457e5c72673d237324a"
+    }
+}

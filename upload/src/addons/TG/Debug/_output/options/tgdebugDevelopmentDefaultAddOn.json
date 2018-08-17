@@ -1,0 +1,12 @@
+{
+    "edit_format": "callback",
+    "edit_format_params": "\\TG\\Debug\\Option\\DevelopmentDefaultAddOn::renderOption",
+    "data_type": "string",
+    "sub_options": [],
+    "validation_class": "",
+    "validation_method": "",
+    "default_value": "XF",
+    "relations": {
+        "tgDebug": 10
+    }
+}
