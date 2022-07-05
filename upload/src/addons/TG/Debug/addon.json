@@ -2,13 +2,13 @@
     "legacy_addon_id": "",
     "title": "[TG] Debug",
     "description": "Controlling debugging and developer mode from ACP.",
-    "version_id": 1000011,
-    "version_string": "1.0.0 Alpha 1",
+    "version_id": 1000012,
+    "version_string": "1.0.0 Alpha 2",
     "dev": "Spark108",
-    "dev_url": "https://spark108.ru",
-    "faq_url": "",
-    "support_url": "",
+	"dev_url": "https://spark108.ru",
+	"faq_url": "https://vk.com/spark108",
+	"support_url": "https://vk.com/spark108",
     "extra_urls": [],
     "require": [],
-    "icon": "fa-file-code-o"
+    "icon": "fa-solid fa-file-code"
 }
